@@ -108,3 +108,4 @@ Este proyecto me permitió practicar cómo organizar una aplicación React utili
 
 ---
 
+## Se crean dos ramas, una con custom Hook y la otra con useReducer
